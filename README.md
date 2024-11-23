@@ -23,23 +23,8 @@ Feel free to reach out to discuss **ideas**, collaborate on projects, or ask que
 
 <p align="center">
     <a href="https://open.spotify.com/user/3126do2agkwzijvz3bjmilkfcj54?si=nDhWiddLQYmv2fr-KOqynw" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="SISROCCO Spotify" />
+    
     </a>
 </p>
 <br>
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-    <img src="https://github.com/safrizalrahman46">
-</p>
-<br>
-
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src=""/>
-</div>
-<br>
-
 
