@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0Y2o3ZnAxdnc4MGFhenY1aGd3MnBna2hldWRmMWFyZmxwa3ZqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3VvAVhQcDzMtEzo1J/giphy.gif) />
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0Y2o3ZnAxdnc4MGFhenY1aGd3MnBna2hldWRmMWFyZmxwa3ZqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3VvAVhQcDzMtEzo1J/giphy.gif)
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [SAFRIZAL RAHMAN!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
